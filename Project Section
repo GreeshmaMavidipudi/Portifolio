@@ -1,0 +1,44 @@
+<html>
+<head>
+	<meta name="viewport" content="width=device-width", initial-scale="1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="project1">
+	<h1>
+		<b>Projects:</b><br>
+	<br>
+	</h1>
+	<span>
+		<h1>
+		<p>Medical ChatBot</p>
+		<br>
+        </h1>
+	</span>
+	<p>
+	<ul class="project">
+		<li> It provides a diagnosis to patients with simple symptom analysis on a conversational approach. </li>
+		<li> Implemented using Machine Learning classification algorithms(Decision Tree Classifier).It reduces efforts to healthcare costs.</li>
+		<br>
+	</ul>
+		<nav>
+			<img src="C:\Users\grees\Downloads\project1 img.jpeg" height="200px" width="200px">
+		</nav>
+	 </p>
+    <span>
+        <h1>
+        <p> Smart Prevention System For Combating Pandemic Situation </p> <br>
+        </h1>
+    </span>
+    <p>
+        <ul class="project">
+            <li>By using the system we will detect the people face and separates them into people who are wearing masks and people and who are not wearing a mask. </li>
+        </ul>
+        <nav>
+            <img src="C:\Users\grees\Downloads\project2.img.jpeg" height="200px" width="200px">
+        </nav>
+        </h3>
+    </p>
+    <span>
+ </body>
+ </html>
