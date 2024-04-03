@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta name="viewport" content="width=device-width", initial-scale="1.0">
+   <link rel="stylesheet" href="style.css">
+   <title>Personal portfolio website</title>
+</head>
+<body>
+   
+   <div class="header">
+      <nav>
+         <a href="logo"><img src="C:\Users\user\Pictures\Screenshots\logo.png" alt="Logo" class="Logo" height="100px" width="100px"></a>
+		 <ul>
+            <li><a href="About.html">About</a></li>
+            <li><a href="SkillsSection.html">Skills Section</a></li>
+            <li><a href="Project Section.html">Projects Section</a></li>
+            <li><a href="ResumeSection.html">Resume Section</a></li>
+         </ul>
+      </nav>
+	  <br><br>
+	  <nav>
+	  <h1>Hello <br> <b>I'm Greeshma<span> Mavidipudi.</span></b></h1>
+      </nav>
+   </div>
+</body>
+</html>
